@@ -41,9 +41,8 @@ const ChatsList = () => {
         <View style = {LookAndFeel.ChatListDesign} > 
        <View>
        <Image
-            source={ require('./assets/nilson.png' )} style={{ width: 50, height: 50 }} />
-        
-          </View>
+           source={ require('./assets/bsit.png' )} style={{ width: 50, height: 50 }} />
+            </View>
          <View>
           <Text style ={LookAndFeel.setFontColor}>BSIT - 3B ADVISORY ❤️</Text>
          <Text style ={LookAndFeel.setFontColor}>Ira Jane L. Renoblas reacted 😥 to your message - Tue  </Text>
@@ -99,9 +98,6 @@ const AccountsList = () => {
 
               <View> 
        <Image
-        //  style ={{with: 30, height: 30}}
-       // source={require('./assets/nilson.png')} resizeMode = "cover"  />
-        // source={{ uri: 'https://i.natgeofe.com/n/5d00b0cc-ab95-4522-ad13-7c65b7589e6b/NationalGeographic_748483.jpg?w=636&h=424' }} style={{ width: 50, height: 50 }} />
          source={ require('./assets/nilson.png' )} style={{ width: 50, height: 50 }} />
         
         </View>
@@ -140,7 +136,7 @@ const AccountsList = () => {
         <View style = {[LookAndFeel.IconsListContainer, {margin: '1px'}] } >
  
          <View>  <Image
-             source={ require('./assets/nilson.png' )} style={{ width: 50, height: 50 }} />
+             source={ require('./assets/ira.png' )} style={{ width: 50, height: 50 }} />
           </View>
          <View>
           <Text style ={[LookAndFeel.setFontColor2,{textAlign: 'center'}]}>Ira L.</Text>
