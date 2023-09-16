@@ -4,8 +4,7 @@ import {Image} from 'react-native';
 import LookAndFeel from './src-lf/lookAndFeel';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faEnvelope, faBars, faCamera,faPencil,faMagnifyingGlass,faPen,faComment, faVideo,faUser, faBook } from '@fortawesome/free-solid-svg-icons';
-//import{faBars,faEnvelope , faCamera,faPencil,faPen,faMessage, faVideoCamera, faBook} from '@fortawesome/free-regular-svg-icons';
-  
+
  
 const ChatsList = () => {
   
